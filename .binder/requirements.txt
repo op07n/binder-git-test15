@@ -1,0 +1,8 @@
+numpy==1.17.0
+streamlit
+plotly==3.10.0
+pandas==0.25.0
+chart_studio==1.0.0
+fbprophet==0.5
+jupyter-server-proxy 
+nbserverproxy
